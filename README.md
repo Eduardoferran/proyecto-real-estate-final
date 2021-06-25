@@ -22,5 +22,3 @@ Using Python for the ETL process and EDA for the data analysis.
 
  Result:
   - Use case or pilot test in which we can make an estimation of these and know with our budget in which neighborhood to invest.
-
-Translated with www.DeepL.com/Translator (free version)
